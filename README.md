@@ -1,6 +1,6 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6B4423,50:3B2A20,100:0B1F3A" width="100%" alt=""/></p>
 
-<h2 align="center">Nicolás Forero</h2>
+<h2 align="center">José Nicolás Forero Urrego</h2>
 
 <p align="center">
   Data Scientist · Economist · MSc Data Science, PUC Chile
